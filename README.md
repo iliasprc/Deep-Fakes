@@ -1,5 +1,8 @@
 # Deep-Fakes
 
+# Table of Contents
+
+
 ## Datasets
 
 
@@ -20,7 +23,33 @@
 
 
 
-## Methods
+## Deepfake Detection  Methods
+
+
+
+|                              Papers                   |           Code                              |
+|  :------------:  |  :------------:  |
+| A Style-Based Generator Architecture for Generative Adversarial Networks [pdf](https://arxiv.org/pdf/1812.04948.pdf) | https://github.com/NVlabs/stylegan          |
+| Progressive Growing of GANs for Improved Quality, Stability, and Variation [pdf](https://arxiv.org/pdf/1710.10196.pdf) |        |
+| Real or Fake? Spooﬁng State-Of-The-Art Face Synthesis Detection Systems [pdf](https://arxiv.org/pdf/1911.05351.pdf)  | https://github.com/joaocneves/gan_fingerprint_removal | 
+|[pdf] | |
+|Detecting GAN-Generated Imagery Using Color Cues [pdf](https://arxiv.org/pdf/1812.08247.pdf) |   |
+| Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints
+[pdf](https://arxiv.org/pdf/1811.08180.pdf)| |
+|FakeSpotter: A Simple Baseline for Spotting AI-Synthesized Fake Faces [pdf](https://arxiv.org/pdf/1909.06122.pdf) | |
+|Detecting GAN generated Fake Images using Co-occurrence Matrices[pdf](https://arxiv.org/pdf/1903.06836.pdf) |   |
+|Incremental Learning for the Detection and Classiﬁcation of GAN-Generated Images [pdf](https://arxiv.org/pdf/1910.01568.pdf)   |      |
+
+
+
+
+
+
+| StarGAN:
+Uniﬁed Generative Adversarial Networks for Multi-Domain Image-
+to-Image Translation [pdf](https://arxiv.org/pdf/1711.09020.pdf) | |
+|Face2face: Real-Time Face Capture and Reenactment of RGB Videos[pdf](http://www.graphics.stanford.edu/~niessner/papers/2016/1facetoface/thies2016face.pdf) | https://github.com/datitran/face2face-demo |
+ 
 https://github.com/MarekKowalski/FaceSwap
 
 https://github.com/deepfakes/faceswap
