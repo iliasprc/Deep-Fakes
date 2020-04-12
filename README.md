@@ -1,5 +1,5 @@
 # Deep-Fakes
-
+a list of  Deepfakes resources, deepfakes datasets, deepfake generation  and detection methods
 # Table of Contents
   
 [Datasets](#datasets)  
