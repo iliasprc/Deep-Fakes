@@ -75,19 +75,18 @@ a list of  Deepfakes resources, deepfakes datasets, deepfake generation  and det
 |Invertible Conditional GANs for image editing [pdf](https://arxiv.org/pdf/1611.06355.pdf)| https://github.com/Guim3/IcGAN|
 | Fader Networks: Manipulating Images by Sliding Attributes [pdf](https://arxiv.org/pdf/1706.00409.pdf)| https://github.com/facebookresearch/FaderNetworks |
 
-https://www.youtube.com/watch?v=UlvoEW7l5rs
 
 
 
 
 
+[FaceApp](https://www.faceapp.com/) 
 
-https://www.kaggle.com/c/deepfake-detection-challenge
-
-
-
+[Kaggle Deepfake Detection challenge](https://www.kaggle.com/c/deepfake-detection-challenge)
 
 
-https://github.com/facebookresearch/FaderNetworks
 
-https://xpression.jp/
+
+
+[Xpression app : Your facial expression on anyone's face](https://xpression.jp/)
+
