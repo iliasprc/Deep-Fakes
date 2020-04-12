@@ -1,7 +1,12 @@
 # Deep-Fakes
 
 # Table of Contents
+  
+[Datasets](#datasets)  
 
+[Deepfake Detection Methods](#deepfake-detection-methods)
+
+[Deepfake Generation methods](#deepfake-generation-methods)
 
 ## Datasets
 
@@ -23,11 +28,11 @@
 
 
 
-## Deepfake Detection  Methods
+## Deepfake Detection Methods
 
 
 
-|                              Papers                   |           Code                              |
+|                             Method                   |           Code                              |
 |  :------------:  |  :------------:  |
 | A Style-Based Generator Architecture for Generative Adversarial Networks [pdf](https://arxiv.org/pdf/1812.04948.pdf) | https://github.com/NVlabs/stylegan          |
 | Progressive Growing of GANs for Improved Quality, Stability, and Variation [pdf](https://arxiv.org/pdf/1710.10196.pdf) |        |
@@ -51,41 +56,37 @@
 | On Detecting GANs and Retouching based Synthetic Alterations [pdf](https://arxiv.org/pdf/1901.09237.pdf)|  |
 | Detecting Photoshopped Faces by Scripting Photoshop [pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Detecting_Photoshopped_Faces_by_Scripting_Photoshop_ICCV_2019_paper.pdf)| https://github.com/peterwang512/FALdetector |
 |Detecting and Simulating Artifacts in GAN Fake Images [pdf](https://arxiv.org/pdf/1907.06515.pdf) | https://github.com/ColumbiaDVMM/AutoGAN |
-|  Deepfake Video Detection through Optical Flow based CNN[pdf](http://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Amerini_Deepfake_Video_Detection_through_Optical_Flow_Based_CNN_ICCVW_2019_paper.pdf)|  |
+|  Deepfake Video Detection through Optical Flow based CNN [pdf](http://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Amerini_Deepfake_Video_Detection_through_Optical_Flow_Based_CNN_ICCVW_2019_paper.pdf)|  |
 
 
 
 
 ## Deepfake Generation methods
 
-|                              Papers                   |           Code                              |
+|                             Method                   |           Code                              |
 |  :------------:  |  :------------:  |
-| StarGAN: Uniﬁed Generative Adversarial Networks for Multi-Domain Image-to-Image Translation [pdf](https://arxiv.org/pdf/1711.09020.pdf) | |
+| StarGAN: Uniﬁed Generative Adversarial Networks for Multi-Domain Image-to-Image Translation [pdf](https://arxiv.org/pdf/1711.09020.pdf) | https://github.com/yunjey/stargan |
 |Face2face: Real-Time Face Capture and Reenactment of RGB Videos[pdf](http://www.graphics.stanford.edu/~niessner/papers/2016/1facetoface/thies2016face.pdf) | https://github.com/datitran/face2face-demo |
  |A Style-Based Generator Architecture for Generative Adversarial Networks [pdf](https://arxiv.org/pdf/1812.04948.pdf)| https://github.com/NVlabs/stylegan |
  |STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing [pdf](https://arxiv.org/pdf/1904.09709.pdf)| https://github.com/csmliu/STGAN |
- 
- 
- 
-https://github.com/MarekKowalski/FaceSwap
-
-https://github.com/deepfakes/faceswap
+ | FaceSwap | https://github.com/MarekKowalski/FaceSwap  |
+ | FaceSwap GAN |  https://github.com/shaoanlu/faceswap-GAN |
+ | AttGAN: Facial Attribute Editing by Only Changing What You Want | https://github.com/LynnHo/AttGAN-Tensorflow|
+|Invertible Conditional GANs for image editing [pdf](https://arxiv.org/pdf/1611.06355.pdf)| https://github.com/Guim3/IcGAN|
+| Fader Networks: Manipulating Images by Sliding Attributes [pdf](https://arxiv.org/pdf/1706.00409.pdf)| https://github.com/facebookresearch/FaderNetworks |
 
 https://www.youtube.com/watch?v=UlvoEW7l5rs
 
 
 
-https://github.com/shaoanlu/faceswap-GAN
 
 
 
 https://www.kaggle.com/c/deepfake-detection-challenge
 
-https://github.com/yunjey/stargan
 
-https://github.com/LynnHo/AttGAN-Tensorﬂow
 
-https://github.com/Guim3/IcGAN
+
 
 https://github.com/facebookresearch/FaderNetworks
 
