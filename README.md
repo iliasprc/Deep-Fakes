@@ -58,9 +58,10 @@ a list of  Deepfakes resources, deepfakes datasets, deepfake generation  and det
 | Detecting Photoshopped Faces by Scripting Photoshop [pdf](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Detecting_Photoshopped_Faces_by_Scripting_Photoshop_ICCV_2019_paper.pdf)| https://github.com/peterwang512/FALdetector |   2019 |
 |Detecting and Simulating Artifacts in GAN Fake Images [pdf](https://arxiv.org/pdf/1907.06515.pdf) | https://github.com/ColumbiaDVMM/AutoGAN |   2019 |
 |  Deepfake Video Detection through Optical Flow based CNN [pdf](http://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Amerini_Deepfake_Video_Detection_through_Optical_Flow_Based_CNN_ICCVW_2019_paper.pdf)|  |    2019 |
-
-
-
+|Detecting Deep-Fake Videos from Appearance and Behavior [pdf](https://ieeexplore.ieee.org/abstract/document/9360904?casa_token=rzjFI2N2UjQAAAAA:t7pb30MdRz3-Sb8m2DMDleOL4VO6ti76QlHg513BBkr5ReTrk_xlUM6OVRHVUPc0RqtasslsTXcw)|  | 2020 |
+|Detecting Deep-Fake Videos from Phoneme-Viseme Mismatches [pdf](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w39/Agarwal_Detecting_Deep-Fake_Videos_From_Phoneme-Viseme_Mismatches_CVPRW_2020_paper.pdf)| | 2020 |
+| Detecting Deepfakes with Metric Learning [pdf](https://ieeexplore.ieee.org/abstract/document/9107962?casa_token=J6JK_ok-0pAAAAAA:r5TFe9Uq3zq5EpD9PysfGsCA_4cbOhm4jjVCAmqKgL7e6v5YNn0hdgMQ-s7Lpd5cIi8XgVnB-zi9) | | 2020 |
+| DeepVision: Deepfakes Detection Using Human Eye Blinking Pattern  [pdf](https://ieeexplore.ieee.org/abstract/document/9072088)| | 2020 |
 
 ## Deepfake Generation methods
 
